@@ -1,3 +1,7 @@
 body {
     cursor: url('https://www.w3schools.com/html/pic_trulli.jpg') 16 16, auto;
 }
+
+h1 {
+    font-size: 50px;
+}
